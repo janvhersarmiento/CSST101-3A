@@ -1,6 +1,0 @@
-Timestamp,Student Name,Rule,Result
-2025-10-09 21:36:58,Aron Ogayon,Attendance Rule,Violated ❌
-2025-10-09 21:38:43,Allain Kumar,Grading Rule,Failed ❌
-2025-10-09 21:39:24,Carl Cipriano,Login Rule,Satisfied ✅
-2025-10-09 21:40:10,Ross Cidrek Nazareno,Academic Status Rule,Satisfied ✅ - Honors Status
-2025-10-09 21:40:41,Janvher,Bonus Rule,Violated ❌
